@@ -1,0 +1,56 @@
+@media screen and (max-width: 1400px) {
+	.sec_04 .slick-dots  {width: calc(100% - 26%) !important;}
+}
+
+@media screen and (max-width: 1024px) {
+	h1, h2, h3, h4, h5, h6 {margin-bottom:15px;}
+	p {font-size: 13px;line-height: 22px;}
+	.banner_botom .left h1 {font-size: 28px;}
+	.banner_botom .left p{ font-size: 18px;}
+	.right.slideup_div.marginZero {margin-top: -58px;}
+	.sec_02, .sec_04{ padding: 40px 0;}
+	.sec_02 h3 {font-size: 22px;line-height: 28px;}
+	.sec_03 h3 {font-size: 22px;line-height: 28px;}
+	.sec_03 a {padding: 11px 20px;margin-top: 15px;font-size: 15px;}
+	.sec_04 h3 {font-size: 22px;line-height: 28px; margin-bottom: 20px;}
+	.img_box h5 {font-size: 16px;max-width: 50%;left: 20px;bottom: 20px;}
+	.sec_06 {padding: 40px 0;}
+	.sec_06 h2{ font-size: 22px; line-height: 28px;}
+	.box_sec {padding: 30px 30px;}
+	.box_sec h5{ font-size: 18px; line-height: 24px;}
+ }
+
+
+ @media screen and (max-width: 768px) {
+ 	.left h1 {font-size: 24px;}
+ 	.banner_botom .left h1 {font-size: 22px; margin-bottom: 10px;}
+ 	.banner_botom .left h6 {font-size: 10px;margin-right: 10px;margin-bottom: 10px;}
+ 	.banner_area {min-height: 400px;}
+ 	.banner_botom {padding-top: 21px;}
+ 	.right.slideup_div.marginZero {margin-top: 20px;}
+ 	.img_box a {padding: 8px 14px;font-size: 11px;}
+ 	.img_box h5 {font-size: 12px; left:15px; bottom: 18px;}
+ 	.sec_05{height: auto;}
+ 	.contact h3, .contact h4{ font-size:16px;}
+ }
+
+@media screen and (max-width: 500px) {
+	.send_mail {padding: 11px 15px; margin-left: 5%;width: 90%;text-align: center;font-size: 12px;}
+	.eqr_box h2{ font-size: 14px; width: 100%; text-align: center; padding: 13px 30px; margin-bottom: 0;}
+	.banner_area {min-height:600px;}
+	.banner_botom .right{ margin-top: 0 !important;}
+	.banner_botom .left {width: 100%;padding: 0;text-align: center; margin-bottom: 20px;}
+	.banner_botom .right{ margin: 0 auto!important; width: 320px; float: none; max-width: 100%;}
+	.banner_botom .left h6{float: none; margin-right: 0;}
+	.box_inn {width: 100%;padding: 0 10px 24px 10px;}
+	.box select, .enqry, .full_Width textarea{ font-size: 11px;}
+	.img_box h5 {font-size: 14px;}
+	.contact {right: 10%;width: 80%;}
+}
+ 
+@media screen and (max-width: 400px) {
+	.widthadjust {width: 100%;}
+
+}
+
+ 
